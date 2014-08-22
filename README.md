@@ -1,5 +1,5 @@
 projecteuler
 ============
 
-Project Euler Problems in multiple languages but mainly c++
+A repository dedicated to Preject Euler exercises in multiple languages but mainly c++
 
